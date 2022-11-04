@@ -1,3 +1,7 @@
 Tere, mina olen Mr Meus
+<<<<<<< HEAD
 Minu paariline ei ole enam Mr Meus
 
+=======
+Minu paariline on ka Mr Meus
+>>>>>>> 92dc5c56b6ad52a0421cf4426c9c3a0bd5ac9648
